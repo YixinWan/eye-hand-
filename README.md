@@ -9,3 +9,5 @@
 Store the generated figures of each subject
 ### checksubj_PDF  
 The one-page pdf for each subject
+## 2. Data analysis
+## 3. Statistic analysis
