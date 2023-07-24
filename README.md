@@ -1,5 +1,7 @@
 # eye-hand 
 ## 1. check subjects
+### Check each subject_operation.docx
+Instruction of checking each subject
 ### CheckPerSubj.m - Plot figures below for checking subjects
 #### 1) Hand trace across all trials (color shade)
 #### 2) Eye and hand trace of example trials
